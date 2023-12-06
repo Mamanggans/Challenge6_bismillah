@@ -11,6 +11,6 @@ https://railway.app/project/a32852ea-cc8b-4375-8462-507f1efc1c2f
 
 
 YANG UTAMA 
-challenge6bismillah-production.up.railway.app/berita/
+https://challenge6bismillah-production.up.railway.app/berita/
 
 https://railway.app/project/f7f6aa65-0ae6-4f85-87ba-c39591d34504/service/6e5fb3bf-b02d-41ce-ade4-dbcc74862568
